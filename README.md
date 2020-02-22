@@ -1,5 +1,5 @@
 
-# Suitable
+# Booking app
 <img src="screenshot/banner.png" width="850">
 
 # ScreenShot
