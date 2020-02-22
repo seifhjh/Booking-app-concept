@@ -4,11 +4,9 @@
 
 # ScreenShot
 
-<img src="screenshot/1light.png" width="350">
-<img src="screenshot/1dark.png" width="350">
+<img src="screenshot/1light.png" width="350"><img src="screenshot/1dark.png" width="350">
 
-<img src="screenshot/2light.png" width="350">
-<img src="screenshot/2dark.png" width="350">
+<img src="screenshot/2light.png" width="350"><img src="screenshot/2dark.png" width="350">
 
 # Adapted from this [Dribbbler](https://dribbble.com/shots/6709172-Online-flat-booking-app-concept) , thanks
 
